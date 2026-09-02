@@ -56,6 +56,8 @@ The descriptor model can also be used directly on an already cropped lesion imag
 ```
 
 ## Installation
+The code has been tested with Python 3.9.18 and the dependency versions
+specified in `requirements.txt`.
 
 Clone the repository:
 
