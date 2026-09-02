@@ -1,0 +1,58 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Packaging and build outputs
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Test, coverage, and lint caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Local environment variables
+.env
+.env.*
+!.env.example
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Logs and generated experiment outputs
+*.log
+runs/
+wandb/
+
+# Pretrained models are intentionally tracked:
+# models/YOLO.pt
+# models/model_birads5.pth
+# models/modelo_naive_bayes.pkl

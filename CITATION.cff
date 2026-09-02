@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper listed below."
+type: software
+title: "Deep Learning for Describing Breast Ultrasound Images with BI-RADS Terms"
+authors:
+  - family-names: "Carrilero-Mardones"
+    given-names: "Mikel"
+repository-code: "https://github.com/mikel403/Deep-learning-for-describing-breast-ultrasound-images-with-BI-RADS-terms"
+preferred-citation:
+  type: article
+  title: "Deep Learning for Describing Breast Ultrasound Images with BI-RADS Terms"
+  authors:
+    - family-names: "Carrilero-Mardones"
+      given-names: "Mikel"
+    - family-names: "Parras-Jurado"
+      given-names: "Manuela"
+    - family-names: "Nogales"
+      given-names: "Alberto"
+    - family-names: "Pérez-Martín"
+      given-names: "Jorge"
+    - family-names: "Díez"
+      given-names: "Francisco Javier"
+  journal: "Journal of Imaging Informatics in Medicine"
+  volume: "37"
+  issue: "6"
+  start: 2940
+  end: 2954
+  year: 2024
+  doi: "10.1007/s10278-024-01155-1"
